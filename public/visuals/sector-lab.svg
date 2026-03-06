@@ -1,0 +1,37 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="a" x1="208" y1="84" x2="1318" y2="932" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5F8F6"/>
+      <stop offset="0.48" stop-color="#D8E0DE"/>
+      <stop offset="1" stop-color="#98A8AB"/>
+    </linearGradient>
+    <linearGradient id="b" x1="1140" y1="78" x2="1468" y2="972" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#192328"/>
+      <stop offset="1" stop-color="#0A1013"/>
+    </linearGradient>
+    <radialGradient id="c" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1086 148) rotate(90) scale(412 540)">
+      <stop stop-color="#8CC6C3" stop-opacity="0.26"/>
+      <stop offset="1" stop-color="#8CC6C3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#a)"/>
+  <rect width="1600" height="1000" fill="url(#c)"/>
+  <path d="M476 178H1092V830H476V178Z" fill="#F9FCFB"/>
+  <path d="M1058 104H1600V1000H912L1058 104Z" fill="url(#b)"/>
+  <path d="M402 1000L648 562H940L1186 1000H402Z" fill="#F5F9F8"/>
+  <path d="M488 1000L700 612H892L1098 1000H488Z" fill="#D6E0DF"/>
+  <rect x="544" y="252" width="194" height="422" rx="8" fill="#E9EFED"/>
+  <rect x="792" y="252" width="210" height="422" rx="8" fill="#F2F7F5"/>
+  <rect x="756" y="252" width="18" height="422" fill="#8CC6C3" fill-opacity="0.46"/>
+  <rect x="588" y="320" width="106" height="18" fill="#D8E1E1"/>
+  <rect x="824" y="320" width="148" height="18" fill="#E9F1F1"/>
+  <rect x="824" y="390" width="84" height="12" fill="#C8D4D5"/>
+  <rect x="564" y="554" width="154" height="12" fill="#CAD8D8"/>
+  <rect x="520" y="218" width="520" height="20" fill="#D4DFDE"/>
+  <rect x="520" y="704" width="520" height="20" fill="#C0CCCC"/>
+  <rect x="1148" y="148" width="186" height="6" fill="#8CC6C3"/>
+  <rect x="1116" y="176" width="250" height="2" fill="white" fill-opacity="0.3"/>
+  <path d="M0 166H1600" stroke="#11181C" stroke-opacity="0.06" stroke-width="2"/>
+  <path d="M1242 0V1000" stroke="white" stroke-opacity="0.08" stroke-width="2"/>
+  <path d="M1324 0V1000" stroke="white" stroke-opacity="0.08" stroke-width="2"/>
+</svg>

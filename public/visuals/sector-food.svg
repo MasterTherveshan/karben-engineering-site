@@ -1,0 +1,41 @@
+<svg width="1600" height="1000" viewBox="0 0 1600 1000" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="a" x1="154" y1="128" x2="1392" y2="874" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F6F8F7"/>
+      <stop offset="0.5" stop-color="#DAE2E1"/>
+      <stop offset="1" stop-color="#A6B5B8"/>
+    </linearGradient>
+    <linearGradient id="b" x1="1084" y1="104" x2="1460" y2="930" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A2429"/>
+      <stop offset="1" stop-color="#0A1114"/>
+    </linearGradient>
+    <radialGradient id="c" cx="0" cy="0" r="1" gradientUnits="userSpaceOnUse" gradientTransform="translate(1102 138) rotate(90) scale(420 520)">
+      <stop stop-color="#8CC6C3" stop-opacity="0.22"/>
+      <stop offset="1" stop-color="#8CC6C3" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#a)"/>
+  <rect width="1600" height="1000" fill="url(#c)"/>
+  <path d="M462 206H1116V816H462V206Z" fill="#F7FAF9"/>
+  <path d="M1040 102H1600V1000H886L1040 102Z" fill="url(#b)"/>
+  <path d="M360 1000L640 530H958L1240 1000H360Z" fill="#F2F7F6"/>
+  <path d="M448 1000L684 584H914L1146 1000H448Z" fill="#D4DEDE"/>
+  <rect x="548" y="322" width="190" height="228" fill="#E4ECEB"/>
+  <rect x="790" y="320" width="246" height="230" fill="#F1F6F5"/>
+  <rect x="522" y="274" width="544" height="16" fill="#D9E2E1"/>
+  <rect x="522" y="570" width="544" height="18" fill="#C6D3D3"/>
+  <rect x="520" y="290" width="18" height="280" fill="#C8D6D8"/>
+  <rect x="1068" y="290" width="18" height="280" fill="#C8D6D8"/>
+  <rect x="548" y="292" width="112" height="14" fill="#8CC6C3" fill-opacity="0.46"/>
+  <rect x="552" y="596" width="148" height="14" fill="#D8E3E2"/>
+  <rect x="758" y="596" width="126" height="14" fill="#D8E3E2"/>
+  <rect x="942" y="596" width="94" height="14" fill="#D8E3E2"/>
+  <circle cx="604" cy="436" r="22" fill="#CED8D9"/>
+  <circle cx="654" cy="436" r="22" fill="#CED8D9"/>
+  <circle cx="932" cy="434" r="42" fill="#E4ECEC"/>
+  <rect x="1136" y="152" width="212" height="6" fill="#8CC6C3"/>
+  <rect x="1108" y="184" width="258" height="2" fill="white" fill-opacity="0.32"/>
+  <path d="M0 154H1600" stroke="#11181C" stroke-opacity="0.06" stroke-width="2"/>
+  <path d="M1240 0V1000" stroke="white" stroke-opacity="0.08" stroke-width="2"/>
+  <path d="M1320 0V1000" stroke="white" stroke-opacity="0.08" stroke-width="2"/>
+</svg>
